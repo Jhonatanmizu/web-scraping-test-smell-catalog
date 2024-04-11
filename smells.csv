@@ -1,0 +1,221 @@
+,0
+0,Absence Of Why
+1,Accidental Test Framework
+2,Ambiguous Tests
+3,Anonymous Test
+4,Anonymous Test Case
+5,Army Of Clones
+6,Assertion Chorus
+7,Bad Comment Rate
+8,Bad Documentation Comment
+9,Bad Naming
+10,Badly Structured Test Suite
+11,Behavior Sensitivity
+12,Blethery Prefixes
+13,Boilerplate Hell
+14,Changing Implementation To Make Tests Possible
+15,Code Pollution
+16,Code Run Only By Tests
+17,Comments
+18,Comments Only Test
+19,Complicated Logic In Tests
+20,Constant Actual Parameter Value
+21,Context Logic In Production Code
+22,Copy-Paste
+23,Cut-And-Paste Code Reuse
+24,Data-Ja Vu
+25,Dead Field
+26,Default Test
+27,Dependencies
+28,Design related
+29,Directly Executing Javascript
+30,Disabled Test
+31,Duplicate Alt Branches
+32,Duplicate Assert
+33,Duplicate Code
+34,Duplicate Component Definition
+35,Duplicate In-Line Templates
+36,Duplicate Local Variable/Constant/Timer
+37,Duplicate Statements
+38,Duplicate Template Fields
+39,Duplicate Test Code
+40,Duplicate Test Runs
+41,Duplicated Actions
+42,Duplicated Code
+43,Duplicated Code In Conditional
+44,Easy Lab
+45,Empty Method Category
+46,Empty Test
+47,Empty Test-Method Category
+48,Equality Pollution
+49,Erratic Test
+50,Erratic Tests
+51,Everything Is A Property
+52,Excessive Mocking
+53,Fire And Forget
+54,Flaky Locator
+55,Flaky Test
+56,For Testers Only
+57,Fully-Parameterized Template
+58,Goto Statement
+59,Half A Helper Method
+60,Hard-Coded Test Data
+61,Hard-Coded Values
+62,Hard-To-Test Code
+63,Hard-To-Write Test
+64,Hardcoded Environment
+65,Hardcoded Environment Configuration
+66,Hardcoded Literals
+67,Hardcoded Test Data
+68,Having Flaky Or Slow Tests
+69,Herp Derp
+70,Hidden Complexity
+71,Hidden Meaning
+72,Hidden Test Call
+73,Hooks Everywhere
+74,How to contribute
+75,Ignored Test
+76,Improper Test Method Location
+77,Inconsistent Hierarchy
+78,Indecent Exposure
+79,"Integration Test, Masquerading As Unit Test"
+80,Interface Sensitivity
+81,Intermittent Test Failures
+82,Is Mockito Working Fine?
+83,Is There Anybody There?
+84,Issues in test steps
+85,It Looks Right To Me
+86,Keyword Driven Testing
+87,Lack Comments
+88,Lack Of Encapsulation
+89,Lack Of Macro Events
+90,Large Macro Component
+91,Large Module
+92,Large Test File
+93,Literal Pollution
+94,Long Class
+95,Long Function
+96,Long Macro Event
+97,Long Method
+98,Long Parameter List
+99,Long Statement Block
+100,Long Test
+101,Long Test Steps
+102,Long/Complex/Verbose/Obscure Test
+103,Lost Test
+104,Magic Number Test
+105,Magic Values
+106,Making A Mockery Of Design
+107,Meaningless Variable Names
+108,Messy Test
+109,Mismatched Stubs
+110,Missed Skip Rotten Green Test
+111,Missing Parameterised Test
+112,Missing Test Data Factory
+113,Missing Variable Definition
+114,Missing Verdict
+115,Mistaken Identity
+116,Mixed Selectors
+117,Mixing Production And Test Code
+118,Mock Everything
+119,Mock Happy
+120,Mock Madness
+121,Mockers Without Borders
+122,Mocking A Mocking Framework
+123,Mocking What You Don’T Own
+124,Mockito Any() Vs. Isa()
+125,Mock’Em All
+126,Multiple Points Of Failure
+127,Multiple Tests Testing The Same Or Similar Things
+128,Name-Clashing Import
+129,Non-Functional Statement
+130,Nondeterministic Test
+131,Obscure Test
+132,Opaque Output
+133,Optimizing Dry
+134,Over Refactoring Of Tests
+135,Over-Eager Helper
+136,Over-Specific Runs On
+137,Overcommented Test
+138,Overly Complex Tests
+139,Overly Dry Tests
+140,Overly Elaborate Test Code
+141,Overmocking
+142,Overreferencing
+143,Overspecification
+144,Overspecified Software
+145,Overspecified Tests
+146,Overuse Mocking
+147,Overuse Of Abstractions
+148,Plate Spinning
+149,Production Logic In Test
+150,Proper Organization
+151,Reinventing The Wheel
+152,Remote Control Mocking
+153,Second Class Citizens
+154,Self Important Test Data
+155,Sensitive Locators
+156,Short Template
+157,Singular Component Variable/Constant/Timer Reference
+158,Singular Template Reference
+159,Stop In Function
+160,Subclass To Test
+161,Surreal
+162,Test Body Is Somewhere Else
+163,Test Clones
+164,Test Code Duplication
+165,Test Dependency In Production
+166,Test Hook
+167,Test Logic In Production Code
+168,Test Redundancy
+169,Test Tautology
+170,Test execution - behavior
+171,Test semantic - logic
+172,Test-Class Name
+173,Test-Method Category Name
+174,Testing For A Specific Bug
+175,Testing The Framework
+176,Tests Are Difficult To Write
+177,Tests Cluttered With Business Logic
+178,Tests Require Too Much Intimate Knowledge Of The Code To Run
+179,Testy Testy Test Test
+180,The Conjoined Twins
+181,The Dead Tree
+182,The Enumerator
+183,The First And Last Rites
+184,The Flickering Test
+185,The Forty Foot Pole Test
+186,The Mockery
+187,The Sleeper
+188,The Stepford Fields
+189,The Telltale Heart
+190,The Test With No Name
+191,The Ugly Mirror
+192,Time Bomb Data
+193,Time Bombs
+194,Time Sensitive Test
+195,Treating Test Code As A Second Class Citizen
+196,Trying To Test The Untestable
+197,Two For The Price Of One
+198,Ui Tests Should Not Expose Interactions With Web Elements
+199,Unclassified Method Category
+200,Unnecessary Stubs
+201,Unreachable Default
+202,Unrestricted Imports
+203,Unsuitable Naming
+204,Unused Imports
+205,Unused Inputs
+206,Unused Parameter
+207,Unused Shared-Fixture Variables
+208,Unused Variable Definition
+209,Unworldly Test Data
+210,Using Complicated Data Store
+211,Using Complicated X-Path Or Css Selectors
+212,Using Faker
+213,Using Test Case Inheritance To Test Source Code Polymorphism
+214,Verbless And Noun-Full
+215,Verbose Test
+216,Very Similar Test Cases
+217,Wasted Variable Definition
+218,"Well, My Setup Works"
+219,What Are We Testing?

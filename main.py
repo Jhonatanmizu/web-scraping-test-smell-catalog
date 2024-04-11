@@ -23,6 +23,7 @@ def convert_to_csv(array):
     """
     data_frame = pd.DataFrame(array)
     data_frame.to_csv("smells.csv")
+    print("CSV GENERATED.......")
 
 
 def get_smells_strings(all_smells):
@@ -45,7 +46,7 @@ def get_data():
     result = get_smells_strings(all_smells)
     filtered_data = remove_non_smells(result)
     convert_to_csv(filtered_data)
-    print("CSV GENERATED.......")
+
 
 
 get_data()
